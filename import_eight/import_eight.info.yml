@@ -1,0 +1,6 @@
+type: module
+name: Custom Import
+description: Import nodes custom to Drupal 8 with CSV.
+core: 8.x
+package: Migrate
+version: 1.0

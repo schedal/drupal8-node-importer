@@ -1,0 +1,6 @@
+# Admin import form page
+import_eight.import:
+  route_name: import_eight.import
+  title: 'D8 Import'
+  base_route: system.admin_content
+  weight: 100

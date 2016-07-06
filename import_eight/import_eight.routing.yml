@@ -1,0 +1,8 @@
+# Admin import form page
+import_eight.import:
+  path: '/admin/content/import_eight'
+  defaults:
+    _title: 'D8 Import'
+    _form: '\Drupal\import_eight\Form\ImportEightForm'
+  requirements:
+    _permission: 'administer nodes'
